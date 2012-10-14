@@ -1,0 +1,7 @@
+sdesc: "An improved FTP client"
+ldesc: "Ncftp allows a user to transfer files to and from a remote network
+site, and offers additional features that are not found in the
+standard interface, ftp. Includes command line editing, command
+histories, recursive gets, automatic anonymous logins etc."
+category: Net
+requires: libgcc1 libncurses10 less terminfo
