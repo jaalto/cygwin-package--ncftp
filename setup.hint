@@ -4,4 +4,4 @@ site, and offers additional features that are not found in the
 standard interface, ftp. Includes command line editing, command
 histories, recursive gets, automatic anonymous logins etc."
 category: Net
-requires: libgcc1 libncurses10 less terminfo
+requires: libncursesw10 less terminfo

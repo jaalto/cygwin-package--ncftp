@@ -11,14 +11,13 @@ histories, recursive gets, automatic anonymous logins etc.
 See http://www.ncftp.com/ncftp/doc/faq.html
 
 Runtime requirements:
-  libgcc1
-  libncurses10
+  libncursesw10
   less
   terminfo
 
 Build requirements:
   quilt
-  libncurses-devel
+  libncursesw-devel
 
 Canonical homepage:
   http://freecode.com/projects/ncftp
