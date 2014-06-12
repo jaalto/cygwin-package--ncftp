@@ -17,6 +17,7 @@ Runtime requirements:
   terminfo
 
 Build requirements:
+  quilt
   libncurses-devel
 
 Canonical homepage:
