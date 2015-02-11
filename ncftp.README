@@ -64,6 +64,10 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 3.2.5-2 -----
+- New release 2015-02-11 Jari Aalto
+- Compiled with libncursesw10
+
 ----- version 3.2.5-1 -----
 - New maintainer 2012-10-14 Jari Aalto
 
@@ -75,5 +79,5 @@ Port Notes:
 - ncftp 3.2.0 Released
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
-Copyright (C) 2006-2012 Jonathan C. Allen <jca at sdf dot lonestar dot org>
+Copyright (C) 2012-2015 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2006-2015 Jonathan C. Allen <jca at sdf dot lonestar dot org>

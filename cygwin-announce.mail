@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: ncftp 3.2.5-1 -- An improved FTP client
+Subject: Updated: ncftp 3.2.5-2 -- An improved FTP client
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -22,6 +22,7 @@ INSTALL OR UPGRADE NOTES
 ========================
 
 Standard install.
+Cygwin: compiled with libncursesw10
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
